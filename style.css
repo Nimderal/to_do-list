@@ -1,0 +1,15 @@
+#taskList{
+ color:navy;
+}
+#taskInput{
+    box-sizing: border-box;
+    height: 50px;
+    border-radius: 10px;
+    color: rgb(145, 72, 213);
+    background-color: rgb(6, 248, 139);
+
+}#todo{font-weight: 500px;
+    font-family: 'Times New Roman', Times, serif;
+    
+
+}
